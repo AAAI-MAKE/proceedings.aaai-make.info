@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /AAAI-MAKE-PROCEEDINGS-2022/
+Disallow: /AAAI-MAKE-PREPRINTS-2023/
